@@ -1,0 +1,35 @@
+﻿
+/*----------------------All Styles----------------------*/
+* {
+    /*background-color: hotpink;*/
+    box-sizing: border-box;
+}
+
+/*----------------------Header Styles----------------------*/
+h3 {
+    text-align: center;
+}
+
+/*----------------------Body Styles----------------------*/
+body {
+    background-color: hotpink;
+}
+
+/*----------------------Main Styles----------------------*/
+
+/*----------------------Link Styles----------------------*/
+
+/*----------------------IMG Styles----------------------*/
+img#tpetts {
+    /*center the image here*/
+}
+
+/*----------------------Footer Styles----------------------*/
+
+/*----------------------MISC; Styles----------------------*/
+
+/*.container body-content {
+    align-content: center;
+}*/
+
+
