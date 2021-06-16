@@ -36,6 +36,13 @@ namespace MyWebApplication.Controllers
             return View();
         }
 
+        public IActionResult Experience()
+        {
+            ViewData["Message"] = "Current Work Experience";
+
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
