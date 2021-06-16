@@ -17,7 +17,7 @@ namespace MyWebApplication.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "All About Me: ";
+            ViewData["Message"] = "Tia Petts: ";
 
             return View();
         }
