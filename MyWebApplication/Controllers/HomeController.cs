@@ -29,6 +29,13 @@ namespace MyWebApplication.Controllers
             return View();
         }
 
+        public IActionResult Education()
+        {
+            ViewData["Message"] = "Current Education: ";
+
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
