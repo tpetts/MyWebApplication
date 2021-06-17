@@ -20,6 +20,7 @@ h3 {
 /*----------------------Table Styles----------------------*/
 th {
     padding: 15px;
+    border-bottom: 5px solid black;
 }
 
 /*----------------------Link Styles----------------------*/
